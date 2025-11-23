@@ -1,0 +1,18 @@
+export const PreferencesKeys = {
+  authToken: `authToken`,
+  id: `id`,
+  customerCars: 'customerCars',
+  selectedCar: 'selectedCarId',
+  catName: 'catName',
+  subCatName: 'subCatName',
+  Brands: 'Brands',
+  dynamiFilters: 'dynamiFilters',
+  categoryList: 'HomeCat',
+  brands: 'Brands',
+  cards: 'cards',
+  banks: 'banks',
+  stores: 'stores',
+  searchedKeywords: 'historyKeyWords',
+  userDetails: 'userDetails',
+  quantity: 'quantity',
+};
